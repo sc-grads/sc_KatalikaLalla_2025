@@ -1,0 +1,5 @@
+SELECT TOP (1000) [firstName]
+      ,[lastName]
+      ,[dob]
+      ,[ID]
+  FROM [OurFirstDatabase].[dbo].[personalInfo]
