@@ -1,5 +1,0 @@
-SELECT TOP (1000) [TeamMemberID]
-      ,[FullName]
-      ,[Email]
-      ,[Department]
-  FROM [TimesheetDB].[dbo].[TeamMember]
