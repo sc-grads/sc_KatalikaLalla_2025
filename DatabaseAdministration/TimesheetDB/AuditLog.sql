@@ -1,8 +1,0 @@
-SELECT TOP (1000) [AuditID]
-      ,[ActionType]
-      ,[TableName]
-      ,[RecordID]
-      ,[ChangedAt]
-      ,[ChangedBy]
-      ,[Description]
-  FROM [TimesheetDB].[dbo].[AuditLog]
