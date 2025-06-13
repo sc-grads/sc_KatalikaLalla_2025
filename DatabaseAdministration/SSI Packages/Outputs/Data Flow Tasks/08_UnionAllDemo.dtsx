@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="1/2/2017 1:59:24 PM"
+  DTS:CreationDate="5/28/2025 2:12:25 PM
   DTS:CreationName="Microsoft.Package"
-  DTS:CreatorComputerName="MYLENOVOI7"
-  DTS:CreatorName="MYLENOVOI7\KameswaraSarma"
+  DTS:CreatorComputerName="LAPTOP-41D8CAIP"
+  DTS:CreatorName="LAPTOP-41D8CAIP\KatalikaL"
   DTS:DTSID="{F88CD1BA-256A-48BF-AC26-2EE182F50A96}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="13.0.4001.0"
@@ -80,13 +80,13 @@
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[LocalHost.AdventureWorks2014]"
+      DTS:refId="Package.ConnectionManagers[LocalHost.AdventureWorks2022]"
       DTS:CreationName="OLEDB"
       DTS:DTSID="{CB4C4EA8-4DA6-43EF-99E1-25948A3C0705}"
-      DTS:ObjectName="LocalHost.AdventureWorks2014">
+      DTS:ObjectName="LocalHost.AdventureWorks2022">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=.;Initial Catalog=AdventureWorks2014;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=.;Initial Catalog=AdventureWorks2022;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>

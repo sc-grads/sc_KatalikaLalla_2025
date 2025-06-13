@@ -1,3 +1,0 @@
-SELECT TOP 100 *
-FROM [dbo].[Client]
-ORDER BY ClientID DESC;
