@@ -1,0 +1,19 @@
+# Ignore the AdventureWorks backup file
+AdventureWorks2019.bak
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor/IDE files
+.vscode/
+.idea/
+
+# Ignore temporary or swap files
+*.tmp
+*.swp
+*.swo
+*.log
+
+# Only track SQL scripts
+!*.sql
